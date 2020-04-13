@@ -3,7 +3,7 @@
   "description": "Schedule any object with schedulable",
   "type": "library",
   "require": {
-    "nesbot/carbon": "^2.21",
+    "nesbot/carbon": "^1.21",
     "dragonmantank/cron-expression": "^2.1"
   },
   "require-dev": {
